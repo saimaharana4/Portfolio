@@ -1,0 +1,8 @@
+header
+Mail
+    Home
+    About
+    Skills and experience
+    portfolio
+    Contact Us
+Footer
